@@ -1,2 +1,1 @@
-# 100-Days-of-Python-Automated-Birthday-Wisher
-This is the Automated Birthday Wisher app I developed as part of "100 Days of Python" with Dr. Angela Yu.
+This script checks the current day and month to determine if it matches someone's birthday in the given birthdays.csv file. If the script detects that it is someone's birthday, it sends them a birthday wish email randomly chosen from a list of 3 template emails.
